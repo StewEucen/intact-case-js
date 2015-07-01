@@ -1,0 +1,19 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Intact Case for Javascript Version
+//
+// Holds a static string representing the current version of Intact Case for Javascript
+//
+// Intact Case: Interconverting naturally camelCase and snake_case which include acronym.
+// (c) 2015 Stew Eucen (http://lab.kochlein.com)
+//
+// Licensed under The MIT License
+// Redistributions of files must retain the above copyright notice.
+//
+// @copyright     (c) 2015 Stew Eucen (http://lab.kochlein.com)
+// @link          http://lab.kochlein.com/IntactCase
+// @since         Intact Case for Javascript ver. 0.0.0
+// @license       http://www.opensource.org/licenses/mit-license.php MIT License
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+0.0.0
