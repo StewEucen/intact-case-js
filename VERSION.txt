@@ -12,8 +12,8 @@
 //
 // @copyright     (c) 2015 Stew Eucen (http://lab.kochlein.com)
 // @link          http://lab.kochlein.com/IntactCase
-// @since         Intact Case for Javascript ver. 0.0.0
+// @since         Version 1.0.0
 // @license       http://www.opensource.org/licenses/mit-license.php MIT License
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-0.0.0
+1.0.0
